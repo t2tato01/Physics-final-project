@@ -1,5 +1,3 @@
-# Physics-final-project
-
 # Physics Final Project: Sports App Demo
 
 ## Introduction
@@ -18,7 +16,8 @@ A graph is plotted to visualize the velocity during the walk. Velocity is calcul
 
 ### Acceleration Graph
 Four acceleration graphs are presented:
-1. Calculated acceleration: The acceleration calculated from the velocity data, consisting of one component.
+
+1.　 Calculated acceleration: The acceleration calculated from the velocity data, consisting of one component.
 2.　Observed acceleration: The acceleration data collected during the walk, consisting of three components (x, y, z).
 
 ### Average Speed
