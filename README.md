@@ -42,7 +42,7 @@ The total distance traveled during the walk is calculated and presented as a num
 ### Number of Steps
 The number of steps taken during the walk is calculated and presented as a numerical output.
 
-![Screenshot](ScreenshotSteps.pn)
+![Screenshot](ScreenshotSteps.png)
 
 ## Discussion
 
